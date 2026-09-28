@@ -1,26 +1,27 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "totalSolved": 4,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-09-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "GeeksForGeeks_Binary_Search": true,
     "LeetCode_Binary_Search": true,
-    "LeetCode_Valid_Perfect_Square": true
+    "LeetCode_Valid_Perfect_Square": true,
+    "LeetCode_Find_Peak_Element": true
   },
   "activityHistory": {
     "2026-09-27": 1,
-    "2026-09-28": 2
+    "2026-09-28": 2,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Binary Search",
-    "Valid Perfect Square"
+    "Find Peak Element"
   ]
 }
