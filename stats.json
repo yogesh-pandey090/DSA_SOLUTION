@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -14,14 +14,16 @@
     "GeeksForGeeks_Binary_Search": true,
     "LeetCode_Binary_Search": true,
     "LeetCode_Valid_Perfect_Square": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true
   },
   "activityHistory": {
     "2026-09-27": 1,
     "2026-09-28": 2,
-    "2026-09-29": 1
+    "2026-09-29": 2
   },
   "todayProblems": [
-    "Find Peak Element"
+    "Find Peak Element",
+    "Peak Index in a Mountain Array"
   ]
 }
