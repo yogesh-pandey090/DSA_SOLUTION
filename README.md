@@ -10,3 +10,4 @@
 | 8 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 04 Oct 2026 | 11:39 pm |
 | 9 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 05 Oct 2026 | 10:02 pm |
 | 10 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 06 Oct 2026 | 11:19 pm |
+| 11 | [Find the Smallest Divisor Given a Threshold](./LeetCode/Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold) | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | 08 Oct 2026 | 01:23 am |
