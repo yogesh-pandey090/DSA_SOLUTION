@@ -13,3 +13,4 @@
 | 11 | [Find the Smallest Divisor Given a Threshold](./LeetCode/Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold) | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | 08 Oct 2026 | 01:23 am |
 | 12 | [Array or List Traversal](./GeeksForGeeks/Basic/Array%20or%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1) | Basic | 08 Oct 2026 | 05:48 pm |
 | 13 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 09 Oct 2026 | 01:06 am |
+| 14 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 09 Oct 2026 | 01:24 am |
