@@ -12,3 +12,4 @@
 | 10 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 06 Oct 2026 | 11:19 pm |
 | 11 | [Find the Smallest Divisor Given a Threshold](./LeetCode/Medium/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold) | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | 08 Oct 2026 | 01:23 am |
 | 12 | [Array or List Traversal](./GeeksForGeeks/Basic/Array%20or%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1) | Basic | 08 Oct 2026 | 05:48 pm |
+| 13 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 09 Oct 2026 | 01:06 am |
