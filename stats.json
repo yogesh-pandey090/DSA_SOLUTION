@@ -1,14 +1,14 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 9,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "GeeksForGeeks_Binary_Search": true,
@@ -22,7 +22,8 @@
     "LeetCode_Sqrt(x)": true,
     "GeeksForGeeks_Allocate_Minimum_Pages": true,
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
-    "LeetCode_Find_the_Smallest_Divisor_Given_a_Threshold": true
+    "LeetCode_Find_the_Smallest_Divisor_Given_a_Threshold": true,
+    "GeeksForGeeks_Array_or_List_Traversal": true
   },
   "activityHistory": {
     "2026-09-27": 1,
@@ -33,9 +34,10 @@
     "2026-10-04": 1,
     "2026-10-05": 1,
     "2026-10-06": 1,
-    "2026-10-08": 1
+    "2026-10-08": 2
   },
   "todayProblems": [
-    "Find the Smallest Divisor Given a Threshold"
+    "Find the Smallest Divisor Given a Threshold",
+    "Array or List Traversal"
   ]
 }
