@@ -16,3 +16,4 @@
 | 14 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 09 Oct 2026 | 01:24 am |
 | 15 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 11 Oct 2026 | 02:11 am |
 | 16 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 10:46 am |
+| 17 | [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) | Easy | 16 Oct 2026 | 01:13 am |
