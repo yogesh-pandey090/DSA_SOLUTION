@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-10-16",
+  "lastSyncDate": "2026-10-18",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 10,
+    "medium": 11,
     "hard": 0,
     "basic": 1
   },
@@ -28,7 +28,8 @@
     "LeetCode_Running_Sum_of_1d_Array": true,
     "LeetCode_3Sum": true,
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
-    "LeetCode_Backspace_String_Compare": true
+    "LeetCode_Backspace_String_Compare": true,
+    "LeetCode_Boats_to_Save_People": true
   },
   "activityHistory": {
     "2026-09-27": 1,
@@ -42,9 +43,10 @@
     "2026-10-08": 2,
     "2026-10-09": 2,
     "2026-10-11": 2,
-    "2026-10-16": 1
+    "2026-10-16": 1,
+    "2026-10-18": 1
   },
   "todayProblems": [
-    "Backspace String Compare"
+    "Boats to Save People"
   ]
 }
