@@ -20,3 +20,4 @@
 | 18 | [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | Medium | 18 Oct 2026 | 03:42 am |
 | 19 | [Recyclable and Low Fat Products](./LeetCode/Easy/Recyclable%20and%20Low%20Fat%20Products) | [LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | 20 Oct 2026 | 02:36 am |
 | 20 | [Find Customer Referee](./LeetCode/Easy/Find%20Customer%20Referee) | [LeetCode](https://leetcode.com/problems/find-customer-referee/) | Easy | 20 Oct 2026 | 02:47 am |
+| 21 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 20 Oct 2026 | 09:30 am |
