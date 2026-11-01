@@ -23,3 +23,4 @@
 | 21 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 20 Oct 2026 | 09:30 am |
 | 22 | [Article Views I](./LeetCode/Easy/Article%20Views%20I) | [LeetCode](https://leetcode.com/problems/article-views-i/) | Easy | 20 Oct 2026 | 09:56 am |
 | 23 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 22 Oct 2026 | 12:54 am |
+| 24 | [Product Sales Analysis I](./LeetCode/Easy/Product%20Sales%20Analysis%20I) | [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | 01 Nov 2026 | 12:19 pm |
