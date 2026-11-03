@@ -24,3 +24,4 @@
 | 22 | [Article Views I](./LeetCode/Easy/Article%20Views%20I) | [LeetCode](https://leetcode.com/problems/article-views-i/) | Easy | 20 Oct 2026 | 09:56 am |
 | 23 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 22 Oct 2026 | 12:54 am |
 | 24 | [Product Sales Analysis I](./LeetCode/Easy/Product%20Sales%20Analysis%20I) | [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | 01 Nov 2026 | 12:19 pm |
+| 25 | [Customer Who Visited but Did Not Make Any Transactions](./LeetCode/Easy/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions) | [LeetCode](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | 03 Nov 2026 | 11:44 pm |

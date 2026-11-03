@@ -1,11 +1,11 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-11-01",
+  "lastSyncDate": "2026-11-03",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 11,
     "hard": 0,
     "basic": 1
@@ -35,7 +35,8 @@
     "LeetCode_Big_Countries": true,
     "LeetCode_Article_Views_I": true,
     "LeetCode_Invalid_Tweets": true,
-    "LeetCode_Product_Sales_Analysis_I": true
+    "LeetCode_Product_Sales_Analysis_I": true,
+    "LeetCode_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions": true
   },
   "activityHistory": {
     "2026-09-27": 1,
@@ -53,9 +54,10 @@
     "2026-10-18": 1,
     "2026-10-20": 4,
     "2026-10-22": 1,
-    "2026-11-01": 1
+    "2026-11-01": 1,
+    "2026-11-03": 1
   },
   "todayProblems": [
-    "Product Sales Analysis I"
+    "Customer Who Visited but Did Not Make Any Transactions"
   ]
 }
