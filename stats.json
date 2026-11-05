@@ -1,11 +1,11 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-11-03",
+  "lastSyncDate": "2026-11-05",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 11,
     "hard": 0,
     "basic": 1
@@ -36,7 +36,8 @@
     "LeetCode_Article_Views_I": true,
     "LeetCode_Invalid_Tweets": true,
     "LeetCode_Product_Sales_Analysis_I": true,
-    "LeetCode_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions": true
+    "LeetCode_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions": true,
+    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true
   },
   "activityHistory": {
     "2026-09-27": 1,
@@ -55,9 +56,10 @@
     "2026-10-20": 4,
     "2026-10-22": 1,
     "2026-11-01": 1,
-    "2026-11-03": 1
+    "2026-11-03": 1,
+    "2026-11-05": 1
   },
   "todayProblems": [
-    "Customer Who Visited but Did Not Make Any Transactions"
+    "Find the Distance Value Between Two Arrays"
   ]
 }
