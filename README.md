@@ -26,3 +26,4 @@
 | 24 | [Product Sales Analysis I](./LeetCode/Easy/Product%20Sales%20Analysis%20I) | [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | 01 Nov 2026 | 12:19 pm |
 | 25 | [Customer Who Visited but Did Not Make Any Transactions](./LeetCode/Easy/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions) | [LeetCode](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | 03 Nov 2026 | 11:44 pm |
 | 26 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 05 Nov 2026 | 11:46 pm |
+| 27 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 10 Nov 2026 | 06:26 pm |
